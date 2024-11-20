@@ -3,3 +3,5 @@ languageCode: zh-cn
 title: Bonjour Blog
 defaultContentLanguage: zh-cn
 hasCJKLanguage: true
+theme:
+  - github.com/CaiJimmy/hugo-theme-stack/v3
