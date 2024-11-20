@@ -1,7 +1,25 @@
 baseURL: https://blog.bonjour.zone/
 languageCode: zh-cn
-title: Bonjour Blog
+title: Bonjour
 defaultContentLanguage: zh-cn
 hasCJKLanguage: true
 theme:
   - github.com/CaiJimmy/hugo-theme-stack/v3
+main:
+  - identifier: home
+    name: Home
+    url: /
+    params:
+      icon: home
+      newtab: true
+social:
+  - identifier: github
+    name: GitHub
+    url: https://github.com/bonjour-py
+    params:
+      icon: brand-github
+  - identifier: twitter
+    name: Twitter
+    url: https://twitter.com
+    params:
+      icon: brand-twitter
