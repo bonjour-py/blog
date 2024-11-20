@@ -1,0 +1,29 @@
+theme:
+  - github.com/CaiJimmy/hugo-theme-stack/v3
+
+baseURL: https://blog.bonjour.zone/
+languageCode: zh-cn
+defaultContentLanguage: zh-cn
+hasCJKLanguage: true
+disqusShortname: bonjour
+
+title: 班泽的窝
+menu:
+  main:
+    - name: 主页
+      params:
+        icon: home
+      url: /
+  social:
+    - name: GitHub
+      params:
+        icon: brand-github
+      url: https://github.com/bonjour-py
+    - name: Twitter
+      params:
+        icon: brand-twitter
+      url: https://twitter.com/bonjourpy
+params:
+  footer:
+    since: 2016
+    customText: 保留所有权利。
