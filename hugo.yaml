@@ -1,0 +1,5 @@
+baseURL: https://blog.bonjour.zone/
+languageCode: zh-cn
+title: Bonjour Blog
+defaultContentLanguage: zh-cn
+hasCJKLanguage: true
