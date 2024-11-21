@@ -24,6 +24,18 @@ menu:
         icon: brand-twitter
       url: https://twitter.com/bonjourpy
 params:
+  mainSections:
+    - post
+  sidebar:
+    emoji: ♂️
+    subtitle: 班泽的窝
+    avatar:
+      src: https://static.bonjour.zone/头像/班泽.png
+      local: false
   footer:
     since: 2016
-    customText: 保留所有权利。
+    customText: |
+      <a href="https://beian.miit.gov.cn/" rel="noopener noreferrer" target="_blank">京ICP备2024052157号-1</a>
+      <br>
+      <img style="height: 1em" src="https://static.bonjour.zone/备案/图标.png">
+      <a href="https://beian.mps.gov.cn/#/query/webSearch?code=11011402053935" rel="noopener noreferrer" target="_blank">京公网安备11011402053935</a>
